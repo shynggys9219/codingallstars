@@ -5,3 +5,9 @@ aiolimiter==1.0.0
 beautifulsoup4==4.11.1
 httpx==0.23.0
 pandas==1.4.2
+gunicorn==20.1.0
+dj-database-url==1.0.0
+django-heroku==0.3.1 
+psycopg2==2.9.3
+whitenoise==6.2.0
+python-decouple==3.6
